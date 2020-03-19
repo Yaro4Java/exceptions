@@ -1,0 +1,27 @@
+
+G
+java:S14813",Remove this unused "result2" local variable.(ªÛáÖÿÿÿÿÿ
+B
+java:S14812",Remove this unused "result1" local variable.(ÎÓ»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”ùµì
+V
+java:S18543";Remove this useless assignment to local variable "result2".(ªÛáÖÿÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(í’‹Éÿÿÿÿÿ
+Q
+java:S18542";Remove this useless assignment to local variable "result1".(ÎÓ»
+T
+java:S3400O"9Remove this method and declare a constant for this value.(•¿×Åþÿÿÿÿ
+C	java:S108;")Either remove or fill this block of code.(³Œ±œýÿÿÿÿ
+V
+java:S18549";Remove this useless assignment to local variable "result3".(§Ã„øÿÿÿÿ
+G
+java:S14815",Remove this unused "result3" local variable.(Ÿ§“úÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(ï­£Ä
+‘
+java:S1130M"|Remove the declaration of thrown exception 'java.nio.file.AccessDeniedException', as it cannot be thrown from method's body.(‡¬Êw
