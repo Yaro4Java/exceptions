@@ -1,27 +1,33 @@
 
-G
-java:S14813",Remove this unused "result2" local variable.(ªÛáÖÿÿÿÿÿ
-B
-java:S14812",Remove this unused "result1" local variable.(ÎÓ»
-N	java:S106"9Replace this use of System.out or System.err by a logger.(”ùµì
-V
-java:S18543";Remove this useless assignment to local variable "result2".(ªÛáÖÿÿÿÿÿ
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-C	java:S108")Either remove or fill this block of code.(í’‹Éÿÿÿÿÿ
-Q
-java:S18542";Remove this useless assignment to local variable "result1".(ÎÓ»
-T
-java:S3400O"9Remove this method and declare a constant for this value.(•¿×Åşÿÿÿÿ
-C	java:S108;")Either remove or fill this block of code.(³Œ±œıÿÿÿÿ
-V
-java:S18549";Remove this useless assignment to local variable "result3".(§Ã„øÿÿÿÿ
-G
-java:S14815",Remove this unused "result3" local variable.(Ÿ§“úÿÿÿÿ
+E
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿÛä¾’.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§›ú’.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(¥ûà8ˆ¬Á’.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ı±ÿãıÿÿÿÿ8ÿÛä¾’.
+a
+java:S21478"DCombine this catch with the one at line 52, which has the same body.(ï­£Ä8ÿÛä¾’.
+œ
+java:S1130U"Remove the declaration of thrown exception 'kozlov.homework.CustomCheckedException', as it cannot be thrown from method's body.(ıÊóû8 ÀÀ¼’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥İ­¾8ÓàÍ¾’.
+™
+java:S1130U"|Remove the declaration of thrown exception 'java.nio.file.AccessDeniedException', as it cannot be thrown from method's body.(ıÊóû8 ÀÀ¼’.
+S
+java:S1143˜"5Remove this return statement from this finally block.(ùñúÈ8‚äñı’.
+?
+java:S1181"!Catch Exception instead of Error.(ãù¼8™äœı’.
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "args".(üÒ¹ˆ8°¯ç¼’.
 >
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
->
-java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Z
-java:S2147"DCombine this catch with the one at line 26, which has the same body.(ï­£Ä
-‘
-java:S1130M"|Remove the declaration of thrown exception 'java.nio.file.AccessDeniedException', as it cannot be thrown from method's body.(‡¬Êw
+java:S1181x"!Catch Exception instead of Error.(ãù¼8°…Ÿş’.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(‰®Œòüÿÿÿÿ8ì¡³ş’.
+g	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8 ÀÀ¼’.
+E
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÿÛä¾’.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(”ùµì8 ÀÀ¼’.
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(ãáÓ¨8ÄõÁş’.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªË¯‘ûÿÿÿÿ8ÿÛä¾’.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(ºêÃú8ÅÃş’.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(½ïşâ8Ÿ·§ú’.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(È«©8 ÀÀ¼’.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÿÛä¾’.

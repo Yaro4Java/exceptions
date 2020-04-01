@@ -9,3 +9,13 @@ N
 src/kozlov/homework/Child.java,2\3\23351162e38310c6e23f8ba2cb3cce7a03466d80
 O
 src/kozlov/homework/Result.java,0\c\0c9fd526cb847a545718b1629e5f32e97ac4a17f
+]
+-src/kozlov/homework/MyAutoCloseableClass.java,0\3\038fe7b9e4aa94afb171071b5af7606f099c4af9
+a
+1src/kozlov/homework/MyAutoCloseableClassTest.java,8\0\8062d4fc069818891dcd09785df34deda23f6f42
+\
+,src/kozlov/homework/ThrowingConstructor.java,a\d\ad2629bf5665f17fb669cf532d72118813c9be54
+_
+/src/kozlov/homework/CustomCheckedException.java,e\1\e118afd479b1fa35d06245a48368895653e448ae
+Z
+*src/kozlov/homework/justAFileWithALine.txt,8\3\8369a2a3695ee82e6d1c455958afd790835df9df
